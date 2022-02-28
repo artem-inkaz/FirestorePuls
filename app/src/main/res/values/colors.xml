@@ -11,4 +11,6 @@
     <color name="start">#FFFFFFFF</color>
     <color name="middle">#EAD98D</color>
     <color name="end">#FFFFFFFF</color>
+    <color name="red">#FA0303</color>
+    <color name="bottom_sheet_line_background">#662D3139</color>
 </resources>
