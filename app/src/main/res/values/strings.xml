@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FirestorePuls</string>
+    <string name="pressure_today">%1$s  /  %2$s</string>
+    <string name="current_time">Текущее время</string>
+    <string name="pressure">Давление</string>
+    <string name="barrer">/</string>
+    <string name="hint_one">150</string>
+    <string name="hint_two">80</string>
+    <string name="hint_puls">53</string>
 </resources>

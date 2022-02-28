@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698596609033",
+    "project_id": "healthpuls",
+    "storage_bucket": "healthpuls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698596609033:android:a61ea22def15e3693f3cd8",
+        "android_client_info": {
+          "package_name": "ui.smartpro.firestorepuls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698596609033-0neu9khoi7jpv8r7s438og6f9bqn8399.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ui.smartpro.firestorepuls",
+            "certificate_hash": "05aa3926bdaaac72617032f101e85cff1997bd6c"
+          }
+        },
+        {
+          "client_id": "698596609033-k2ijedvi24mp4shpr4nk24av4s4pr3bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5afPEgr5Qn0x3Etxm971N7TYsPs0EYVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698596609033-k2ijedvi24mp4shpr4nk24av4s4pr3bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
